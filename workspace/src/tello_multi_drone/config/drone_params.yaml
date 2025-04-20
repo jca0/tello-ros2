@@ -1,0 +1,9 @@
+multi_drone_controller:
+  ros__parameters:
+    drones:
+      - name: "drone1"
+        ip: "192.168.1.101"
+      - name: "drone2"
+        ip: "192.168.1.102"
+      - name: "drone3"
+        ip: "192.168.1.103"
